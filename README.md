@@ -6,7 +6,7 @@ Welcome to a journey through comprehensive cybersecurity education, utilizing Tr
 NOTE: Please be aware that I am not responsible for how any information or tools shared here are used.
 
 # Course Modules:
-[Module 1: Introduction to Ethical Hacking and Practical Setup](module1.md)
+[Module 1: Introduction to Ethical Hacking and Practical Setup](module1.md):
     In this module, we introduce TryHackMe as our primary platform (excluding final practical works), utilizing entirely free labs. Should any lab transition to a paid model, please notify me for prompt resolution.
 
 Module 02 - Linux and Windows Fundamentals
