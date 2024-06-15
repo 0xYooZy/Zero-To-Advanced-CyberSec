@@ -13,15 +13,15 @@ Practice (Windows)
 
     Windows Fundamentals 1: https://tryhackme.com/room/windowsfundamentals1xbx
     Windows Fundamentals 2: https://tryhackme.com/room/windowsfundamentals2x0x
-    Windows Fundamentals 3: 
-    Investigating Windows: 
+    Windows Fundamentals 3: https://tryhackme.com/room/windowsfundamentals3xzx
+    Investigating Windows: https://tryhackme.com/room/investigatingwindows
 
 Practice (Linux)
 
-    Linux Fundamentals Part 1: Room Link
-    Linux Fundamentals Part 2: Room Link
-    Linux Fundamentals Part 3: Room Link
-    Linux Modules: Room Link
-    The find command: Room Link
+    Linux Fundamentals Part 1: https://tryhackme.com/room/linuxfundamentalspart1
+    Linux Fundamentals Part 2: https://tryhackme.com/room/linuxfundamentalspart2
+    Linux Fundamentals Part 3: https://tryhackme.com/room/linuxfundamentalspart3
+    Linux Modules: https://tryhackme.com/room/linuxmodules
+    The find command: https://tryhackme.com/room/thefindcommand
 
   
