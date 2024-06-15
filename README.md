@@ -7,7 +7,7 @@ NOTE: Please be aware that I am not responsible for how any information or tools
 
 # Course Modules:
 
-    Module 01 - Introduction to the Platform and Cybersecurity
+    [Module 1: Introduction to Ethical Hacking and Practical Setup](module1.md)
     In this module, we introduce TryHackMe as our primary platform (excluding final practical works), utilizing entirely free labs. Should any lab transition to a paid model, please notify me for prompt resolution.
 
     Module 02 - Linux and Windows Fundamentals
