@@ -2,8 +2,8 @@ Module 08: Web Application Security
 
 Theory:
 
-    1.Define OWASP and summarize the top 10 vulnerabilities in web applications according to their list.
-    2.Research recent cyber attacks on web applications and provide a summary of the most intriguing one.
+    1. Define OWASP and summarize the top 10 vulnerabilities in web applications according to their list.
+    2. Research recent cyber attacks on web applications and provide a summary of the most intriguing one.
     3. Explain Bug Bounty programs and list popular platforms where they can be pursued.
 
 Practice:
