@@ -1,6 +1,6 @@
 Module 01: Introduction to Ethical Hacking and Practical Setup
 
-Theory
+Theory:
 
     1. Understand the concept of penetration testing and its systematic approach.
     2. Differentiate between auditing and penetration testing, highlighting their distinct objectives and methodologies.
