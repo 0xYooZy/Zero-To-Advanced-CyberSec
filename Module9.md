@@ -1,3 +1,5 @@
+Module 09: Web Application Vulnerabilities
+
 Theory:
 
     1. Generate XSS examples on one of the sites listed at Vulnweb. Submit a screenshot of your successful XSS exploit.
