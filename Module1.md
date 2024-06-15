@@ -8,8 +8,8 @@ Theory:
     4. Define roles of offensive and defensive security teams, their objectives, and collaboration dynamics.
     5. Explore additional cybersecurity teams and their roles in organizational security strategies.
     6. Provide insights into key legal aspects related to cybersecurity in your jurisdiction.
-
-TryHackMe Practice Rooms:
+    
+Practice:
 
     Tutorial: https://tryhackme.com/room/tutorial
     Getting Started: https://tryhackme.com/room/gettingstarted
