@@ -1,6 +1,6 @@
--Module 01: Introduction to Ethical Hacking and Practical Setup
+Module 01: Introduction to Ethical Hacking and Practical Setup
 
--Theory
+Theory
 
     1. Understand the concept of penetration testing and its systematic approach.
     2. Differentiate between auditing and penetration testing, highlighting their distinct objectives and methodologies.
@@ -9,7 +9,7 @@
     5. Explore additional cybersecurity teams and their roles in organizational security strategies.
     6. Provide insights into key legal aspects related to cybersecurity in your jurisdiction.
 
--TryHackMe Practice Rooms:
+TryHackMe Practice Rooms:
 
     Tutorial: https://tryhackme.com/room/tutorial
     Getting Started: https://tryhackme.com/room/gettingstarted
