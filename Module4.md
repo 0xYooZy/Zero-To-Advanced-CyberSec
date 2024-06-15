@@ -16,9 +16,9 @@ Theory:
 
 Practice:
 
-    What is Networking?: Room Link
-    Introductory Networking: Room Link
-    Networking: Room Link
-    Intro to LAN: Room Link
-    Nmap Live Host Discovery: Room Link
-    Nmap: Room Link
+    What is Networking?: https://tryhackme.com/room/whatisnetworking
+    Introductory Networking: https://tryhackme.com/room/introtonetworking
+    Networking: https://tryhackme.com/room/bpnetworking
+    Intro to LAN: https://tryhackme.com/room/introtolan
+    Nmap Live Host Discovery: https://tryhackme.com/room/nmap01
+    Nmap: https://tryhackme.com/room/furthernmap
