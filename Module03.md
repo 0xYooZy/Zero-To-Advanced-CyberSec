@@ -3,9 +3,7 @@ Module 03: Blue Team
 Theory:
 
     1. Explore a tool for malware analysis and its functionalities, emphasizing its role in cybersecurity.
-
     2. Identify three popular antivirus programs and provide a brief overview of their features and capabilities.
-
     3. Provide essential tips to prevent malware infections and enhance cybersecurity awareness.
 
 Practice:
