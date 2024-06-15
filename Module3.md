@@ -10,22 +10,22 @@ Theory:
 
 Practice:
 
-    History of Malware: Room Link
-    Security Awareness: Room Link
-    Jr Security Analyst Intro: Room Link
-    MAL: Researching: Room Link
-    MAL: Malware Introductory: Room Link
-    Basic Malware RE: Room Link
-    Common Attacks: Room Link
-    Phishing Emails 1: Room Link
-    Phishing Emails 2: Room Link
-    Android Malware Analysis: Room Link
-    Mobile Malware Analysis: Room Link
-    Disk Analysis & Autopsy: Room Link
-    Redline: Room Link
-    Intro to Digital Forensics: Room Link
-    Splunk CR v2: Room Link
-    Splunk: Room Link
-    Pyramid Of Pain: Room Link
-    Introduction To Honeypots: Room Link
-    Blue: Room Link
+    History of Malware - https://tryhackme.com/room/historyofmalware
+    Security Awareness - https://tryhackme.com/room/securityawarenessintro
+    Jr Security Analyst Intro - https://tryhackme.com/room/jrsecanalystintrouxo
+    MAL: Researching - https://tryhackme.com/room/malresearching
+    MAL: Malware Introductory - https://tryhackme.com/room/malmalintroductory
+    Basic Malware RE - https://tryhackme.com/room/basicmalwarere
+    Common Attacks - https://tryhackme.com/room/commonattacks
+    Phishing Emails 1 - https://tryhackme.com/room/phishingemails1tryoe
+    Phishing Emails 2 - https://tryhackme.com/room/phishingemails2rytmuv
+    Android Malware Analysis  - https://tryhackme.com/room/androidmalwareanalysis
+    Mobile Malware Analysis - https://tryhackme.com/room/mma
+    Disk Analysis & Autopsy - https://tryhackme.com/room/autopsy2ze0
+    Redline - https://tryhackme.com/room/btredlinejoxr3d
+    Intro to Digital Forensics - https://tryhackme.com/room/introdigitalforensics
+    Splunk CR v2 - https://tryhackme.com/room/contiransomwarehgh
+    Splunk - https://tryhackme.com/room/bpsplunk
+    Pyramid Of Pain - https://tryhackme.com/room/pyramidofpainax
+    Introduction To Honeypots - https://tryhackme.com/room/introductiontohoneypots
+    Blue - https://tryhackme.com/room/blue
