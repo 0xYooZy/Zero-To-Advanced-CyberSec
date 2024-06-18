@@ -1,5 +1,5 @@
 
-# Comprehensive Cybersecurity Course: From Zero to Advanced
+# Comprehensive Cybersecurity Guide: From Zero to Advanced
 
 Welcome to a journey through comprehensive cybersecurity education, utilizing TryHackMe labs to take you from foundational to advanced levels. This course is designed for anyone passionate about diving into the world of ethical hacking, whether you're a beginner, student, or seasoned professional.
 
