@@ -46,6 +46,6 @@ NOTE: Please be aware that I am not responsible for how any information or tools
 
     Master the art of penetration testing, the cornerstone of cybersecurity audits and ethical hacking. This practical module equips you with tools, techniques, and a structured approach to ethical hacking.
 
--
+# Credits
 
-        Made with <3 by @YooZy-0x & Croll1312
+This guide was inspired by @Croll1312. Thanks to them for the great idea!
